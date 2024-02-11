@@ -13,5 +13,11 @@ music genre classification due to their ability to automatically extract feature
 signals
 
 The dataset used for this project was ```GTZAN``` dataset easily available at Kaggle
-```https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification```
+
+https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
+
+To get this project up and running, install the requirements.txt file first.
+
+```pip install -r requirements.txt```
+
 
